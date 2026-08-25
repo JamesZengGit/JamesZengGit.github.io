@@ -9,7 +9,7 @@ order: 3
 
 ## Contact Information
 
-- **Email**: [your.email@example.com](mailto:jimmyzeng2002@gmail.com)
+- **Email**: [james1.zeng@gmail.com](mailto:james1.zeng@gmail.com)
 - **LinkedIn**: [Your Profile](https://linkedin.com/in/gqzeng)
 - **GitHub**: [yourusername](https://github.com/JamesZengGit)
 
